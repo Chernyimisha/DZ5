@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Администратор\\Desktop\\Projects\\15.12_30.01_ЧТПН_20\\Task38\\Task38.csproj": {}
+    "C:\\Users\\Администратор\\Desktop\\Projects\\DZ №5\\Task38\\Task38.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Администратор\\Desktop\\Projects\\15.12_30.01_ЧТПН_20\\Task38\\Task38.csproj": {
+    "C:\\Users\\Администратор\\Desktop\\Projects\\DZ №5\\Task38\\Task38.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\Projects\\15.12_30.01_ЧТПН_20\\Task38\\Task38.csproj",
+        "projectUniqueName": "C:\\Users\\Администратор\\Desktop\\Projects\\DZ №5\\Task38\\Task38.csproj",
         "projectName": "Task38",
-        "projectPath": "C:\\Users\\Администратор\\Desktop\\Projects\\15.12_30.01_ЧТПН_20\\Task38\\Task38.csproj",
+        "projectPath": "C:\\Users\\Администратор\\Desktop\\Projects\\DZ №5\\Task38\\Task38.csproj",
         "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Администратор\\Desktop\\Projects\\15.12_30.01_ЧТПН_20\\Task38\\obj\\",
+        "outputPath": "C:\\Users\\Администратор\\Desktop\\Projects\\DZ №5\\Task38\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config"

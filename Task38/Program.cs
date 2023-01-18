@@ -8,7 +8,7 @@ Console.WriteLine("Введите минимальное вещественно�
 double minArray = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите максимальное вещественное число в массиве: ");
 double maxArray = Convert.ToDouble(Console.ReadLine());
-double[] array = CreateArrayRndInt(sizeArray, minArray, maxArray);
+double[] array = CreateArrayRndDouble(sizeArray, minArray, maxArray);
 double maxElements = DifferenceMaxElements(array);
 double minElements = DifferenceMinElements(array);
 double differenceMaxMinElements = Math.Round((maxElements - minElements),1);
@@ -16,9 +16,9 @@ double differenceMaxMinElements = Math.Round((maxElements - minElements),1);
 PrintArray(array);
 Console.WriteLine($"Максимальный элемент: {maxElements}");
 Console.WriteLine($"Минимальный элемент: {minElements}");
-Console.Write($"Разница между максимальным и минимальным элементов массива -> {differenceMaxMinElements}");
+Console.Write($"Разница между максимальным и минимальным элементов массива: {differenceMaxMinElements}");
 
-double[] CreateArrayRndInt(int size, double min, double max)
+double[] CreateArrayRndDouble(int size, double min, double max)
 {
     double[] arr = new double[size];
     Random rnd = new Random();
