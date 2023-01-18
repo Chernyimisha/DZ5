@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\bin\Debug\net6.0\Task36.exe
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\bin\Debug\net6.0\Task36.deps.json
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\bin\Debug\net6.0\Task36.runtimeconfig.json
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\bin\Debug\net6.0\Task36.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\bin\Debug\net6.0\Task36.pdb
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\Task36.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\Task36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\Task36.AssemblyInfoInputs.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\Task36.AssemblyInfo.cs
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\Task36.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\Task36.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\refint\Task36.dll
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\Task36.pdb
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\Task36.genruntimeconfig.cache
+C:\Users\Администратор\Desktop\Projects\15.12_30.01_ЧТПН_20\Task36\obj\Debug\net6.0\ref\Task36.dll
